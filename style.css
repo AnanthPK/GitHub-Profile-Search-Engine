@@ -1,0 +1,53 @@
+
+.bgM{
+    background-image: url(./images/bg1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+    text-align: center;
+}
+.bg{
+    overflow: hidden;
+    background-color:#c3a788;
+    padding: 150px 40px 240px 40px;
+    margin-top:100px;
+   
+}
+.bg img{
+    width: 40%;
+}
+.bg input{
+    border: none;
+    border-radius: 15px;
+    background-color:white;
+    padding: 10px;
+}
+.gitHub{
+    margin: 50px;
+}
+.bg h1{
+    
+    text-decoration:underline;
+}
+
+#main{
+    padding-top: 20px;
+    margin: 20px;
+}
+.card{
+    padding-bottom: 30px;
+}
+.user-info li{
+    list-style: none;
+    color: blue;
+    text-decoration: none;
+    
+}
+#main img{
+    margin-top: 25px;
+    width: 80%;
+}
+.user-info a{
+    text-decoration: none;
+    width: 30%;
+}
