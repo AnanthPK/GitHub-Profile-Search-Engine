@@ -51,3 +51,15 @@
     text-decoration: none;
     width: 30%;
 }
+#repos{
+    
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 30px;
+}
+#repos p{
+    font-size: 25px;
+}

@@ -45,10 +45,10 @@ const userCard = (user) => {
 </div> 
 
 <div class="user-info"> 
-<h2>${id}</h2>${info}<ul> 
-<li>${user.followers} <strong>Followers</strong></li> 
-<li>${user.following} <strong>Following</strong></li> 
-<li>${user.public_repos} <strong>Repos</strong></li> 
+<h2 style="Font-size:30px;color:blue;padding-left:36px; padding-top:20px;">${id}</h2>${info}<ul> 
+<li style="font-size:20px;">${user.followers} <strong>Followers</strong></li> 
+<li style="font-size:20px;">${user.following} <strong>Following</strong></li> 
+<li style="font-size:20px;">${user.public_repos} <strong>Repos</strong></li> 
 </ul> 
 <div id="repos"></div> 
 </div> 
